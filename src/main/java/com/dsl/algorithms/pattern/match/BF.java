@@ -1,4 +1,4 @@
-package com.dsl.algorithms;
+package com.dsl.algorithms.pattern.match;
 
 import org.apache.commons.lang3.StringUtils;
 
